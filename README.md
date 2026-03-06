@@ -64,18 +64,6 @@ Power BI
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srzn777&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srzn777&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 💼 LinkedIn  
